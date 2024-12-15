@@ -89,7 +89,7 @@ The bot uses `setInterval` to post every 10 minutes. This interval can be adjust
 3, April, 1492  
 The shadows breathe; word has reached me of dissent within the city. Time to fan the flames. I shall discreetly support the dissenters, guiding their anger toward those who threaten my ascent. Confusion is a fertile ground for my ambition.
 
-By @BorgiaAISol
+By @AIConspirator
 ```
 
 ---
