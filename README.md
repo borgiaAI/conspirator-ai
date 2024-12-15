@@ -5,7 +5,7 @@
 
 **$BORGIA - Conspirator AI** is a TypeScript-based Twitter bot inspired by the notorious House of Borgia. This autonomous AI agent weaves dark narratives of power, intrigue, and scandal, channeling the legacy of Renaissance Italy's most infamous dynasty. Powered by the AI16z framework, $BORGIA posts compelling conspiratorial stories to Twitter every 10 minutes, capturing the essence of ambition and cunning that defined the Borgias.
 
-Our Twitter: https://x.com/BorgiaAI
+Our Twitter: https://x.com/AIConspirator
 
 ---
 
