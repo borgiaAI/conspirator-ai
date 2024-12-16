@@ -26,7 +26,7 @@ async function generateNarrative(prompt: string): Promise<{ text: string }> {
 ${generatedNarrative.date}
 ${generatedNarrative.text}
 
-By @AIConspirator`,
+By @BorgiaAIsol`,
   };
 }
 
